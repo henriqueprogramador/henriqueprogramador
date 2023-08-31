@@ -1,5 +1,4 @@
-### Olá, Sejam Bem Vindos ao meu perfil, eu sou o Henrique Augusto ![image](https://github.com/henriqueprogramador/henriqueprogramador/assets/22511796/af8e092d-2d91-42a7-bc13-ef142894b9a2)
-
+### Olá, Sejam Bem Vindos ao meu perfil, eu sou o Henrique Augusto 👋
 
 Sou formado pela Universidade Nove de Julho - UNINOVE como tecnologo de análise e desenvolvimento de sistemas, apaixonado por tecnologia sempre estou buscando me aprimorar e aprender a cada dia mais.
 
