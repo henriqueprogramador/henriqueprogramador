@@ -1,4 +1,4 @@
-### Olá, Sejam Bem Vindos ao meu perfil, eu sou o Henrique Augusto 👋
+### Olá, Sejam Bem Vindos ao meu perfil, eu sou o Henrique Augusto 
 
 Sou formado pela Universidade Nove de Julho - UNINOVE como tecnologo de análise e desenvolvimento de sistemas, apaixonado por tecnologia sempre estou buscando me aprimorar e aprender a cada dia mais.
 
